@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dose: 1.5
+  migraine: one
+  treatment: one
+
+two:
+  dose: 1.5
+  migraine: two
+  treatment: two

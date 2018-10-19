@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  triggered_at: 2018-10-18 20:25:37
+  intensity: 1
+  cured: false
+
+two:
+  triggered_at: 2018-10-18 20:25:37
+  intensity: 1
+  cured: false

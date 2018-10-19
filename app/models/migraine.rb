@@ -1,0 +1,2 @@
+class Migraine < ApplicationRecord
+end
